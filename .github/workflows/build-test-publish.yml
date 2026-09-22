@@ -28,7 +28,7 @@ jobs:
             [{
               "id": "github-teenthofabud-repo",
               "username": "${{ secrets.GH_USERNAME }}",
-              "password": "${{ secrets.GH_PAT }}",
+              "password": "${{ secrets.GH_PAT }}"
             },
             {
               "id": "github-teenthofabud-repo-snapshots",
